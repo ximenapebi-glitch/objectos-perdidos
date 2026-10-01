@@ -1,0 +1,57 @@
+[
+    {
+        "id": 8,
+        "titulo": "telefono iphone",
+        "estado": "perdido",
+        "lugar": "706",
+        "fecha": "2026-09-08",
+        "descripcion": "",
+        "fecha_publicacion": "2026-09-08",
+        "disponible": false,
+        "usuario_id": 1
+    },
+    {
+        "id": 9,
+        "titulo": "telefono iphone",
+        "estado": "perdido",
+        "lugar": "706",
+        "fecha": "2026-09-08",
+        "descripcion": "",
+        "fecha_publicacion": "2026-09-08",
+        "disponible": false,
+        "usuario_id": 1
+    },
+    {
+        "id": 10,
+        "titulo": "telefono iphone",
+        "estado": "perdido",
+        "lugar": "706",
+        "fecha": "2026-09-08",
+        "descripcion": "",
+        "fecha_publicacion": "2026-09-08",
+        "disponible": false,
+        "usuario_id": 1
+    },
+    {
+        "id": 11,
+        "titulo": "telefono iphone",
+        "estado": "perdido",
+        "lugar": "706",
+        "fecha": "2026-09-08",
+        "descripcion": "",
+        "fecha_publicacion": "2026-09-08",
+        "disponible": false,
+        "usuario_id": 1
+    },
+    {
+        "id": 12,
+        "titulo": "gorra",
+        "estado": "perdido",
+        "lugar": "705",
+        "fecha": "2026-09-07",
+        "descripcion": "",
+        "fecha_publicacion": "2026-09-08",
+        "disponible": false,
+        "usuario_id": 1
+    }
+]
